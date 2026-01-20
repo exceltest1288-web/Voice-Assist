@@ -1,6 +1,6 @@
 {
-  "name": "Gossip Of Saas Bahu",
-  "description": "A real-time bilingual voice assistant that facilitates seamless communication between English and Urdu speakers using Gemini 2.5 Live API.",
+  "name": "Tagalog-Urdu Voice Bridge",
+  "description": "A real-time bilingual voice assistant facilitating communication between Tagalog (Filipino) and Urdu speakers using Gemini Live API.",
   "requestFramePermissions": [
     "microphone"
   ]
